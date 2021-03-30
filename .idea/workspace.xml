@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a788cf91-d2e8-465b-89b8-faeac7da31d4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1psrBCI89lSzFvIQQ7IFCwHE2dA" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Middleware" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\wwwroot\amazon-scraping\back\hyperf-rebuild\code\app\Middleware" />
+      <recent name="D:\Code\wwwroot\amazon-scraping\back\hyperf-rebuild\code\src\HttpServer\Router" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\wwwroot\amazon-scraping\back\hyperf-rebuild\code\app\Controller" />
+      <recent name="D:\Code\wwwroot\amazon-scraping\back\hyperf-rebuild\code\config" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a788cf91-d2e8-465b-89b8-faeac7da31d4" name="Default Changelist" comment="" />
+      <created>1615982500975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615982500975</updated>
+      <workItem from="1615982503135" duration="34745000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1616950327629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-77.1536.824@0.0.1920.1040" timestamp="1616950327629" />
+    <state x="690" y="277" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1617031496161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="277" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040/1920.-77.1536.824@0.0.1920.1040" timestamp="1617031496161" />
+    <state x="661" y="352" key="NewPhpClassDialog" timestamp="1616950294230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="352" key="NewPhpClassDialog/0.0.1920.1040/1920.-77.1536.824@0.0.1920.1040" timestamp="1616950294230" />
+    <state x="776" y="450" key="NewPhpFileDialog" timestamp="1616948748520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="450" key="NewPhpFileDialog/0.0.1920.1040/1920.-77.1536.824@0.0.1920.1040" timestamp="1616948748520" />
+    <state x="647" y="275" width="626" height="490" key="find.popup" timestamp="1617030923483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="647" y="275" width="626" height="490" key="find.popup/0.0.1920.1040/1920.-77.1536.824@0.0.1920.1040" timestamp="1617030923483" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1617029716452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-77.1536.824@0.0.1920.1040" timestamp="1617029716452" />
+  </component>
+</project>
